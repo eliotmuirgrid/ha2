@@ -1,0 +1,20 @@
+{
+    "LocalDependencies": [
+        "REPchannelStatus.lua",
+        "REPcreatePlaceHolderChannels.lua",
+        "REPcredentials.lua",
+        "REPlocalUrl.lua",
+        "REPremote.lua",
+        "REPremoteUrl.lua",
+        "REPremoveExtraChannels.lua",
+        "REPreplicateChannels.lua"
+    ],
+    "LuaDependencies": [],
+    "OtherDependencies": [],
+    "timestamp": "1789652895",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
